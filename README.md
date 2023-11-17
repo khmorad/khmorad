@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **CodeAssist.AI**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **khashayar.moradpour@sjsu.edu**
 
