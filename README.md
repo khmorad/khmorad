@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **CodeAssist.AI**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **NEAT AI**
 
 - 📫 How to reach me **khashayar.moradpour@sjsu.edu**
 
