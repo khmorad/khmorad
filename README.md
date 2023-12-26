@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NEAT AI**
 
-- 📫 How to reach me **khashayar.moradpour@sjsu.edu**
+- 📫 How to reach me **khakho.morad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
