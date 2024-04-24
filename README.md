@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **CodeAssist.AI**
 
-- 🌱 I’m currently learning **NEAT AI**
+- 🌱 I’m currently learning **Flask**
 
 - 📫 How to reach me **khakho.morad@gmail.com**
    
