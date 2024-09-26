@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://rishavchanda.io)
 <h1 align="center"><a href="https://khashayarmoradpour.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFEFE&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Khashayar+Moradpour;Software+Developer+from+CA%2C+USA" alt="Typing SVG" /></a></h1>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
