@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **<a href="https://www.collegenav.org/">CollegeNav</a>**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **khakho.morad@gmail.com**
    
