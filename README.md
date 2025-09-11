@@ -1,6 +1,5 @@
 <h1 align="center"><a href="https://khashayarmoradpour.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFEFE&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Khashayar+Moradpour;Software+Developer+from+CA%2C+USA" alt="Typing SVG" /></a></h1>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 - 🔭 I’m currently working on **Mood stabilizer**
 
@@ -21,6 +20,8 @@
 <div style="display: flex; justify-content: space-between;">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khmorad&" alt="khmorad"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khmorad&show_icons=true&locale=en&layout=compact" alt="khmorad" style="margin-right: 10px;"/>
-  
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khmorad&show_icons=true" alt="GitHub Stats" />
+</p
   
 </div>
