@@ -20,7 +20,7 @@
 <div style="display: flex; justify-content: space-between;">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khmorad&" alt="khmorad"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khmorad&show_icons=true&locale=en&layout=compact" alt="khmorad" style="margin-right: 10px;"/>
-  <p align="center">
+  <p >
   <img src="https://github-readme-stats.vercel.app/api?username=khmorad&show_icons=true" alt="GitHub Stats" />
 </p
   
