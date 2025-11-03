@@ -1,9 +1,9 @@
 <h1 align="center"><a href="https://khashayarmoradpour.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFEFE&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Khashayar+Moradpour;Software+Developer+from+CA%2C+USA" alt="Typing SVG" /></a></h1>
 
 
-- 🔭 I’m currently working on **Mood stabilizer**
+- 🔭 I’m currently working on **Mood-Tracker**
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **supabase**
 
 - 📫 How to reach me **khakho.morad@gmail.com**
    
