@@ -29,7 +29,8 @@
 </p>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khmorad&" width="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khmorad&layout=compact" width="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=khmorad&show_icons=true"width="200" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khmorad&" width="400"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=khmorad&show_icons=true"width="400" height="159" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khmorad&layout=compact" width="300" />
+  
+
